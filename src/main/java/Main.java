@@ -1,5 +1,3 @@
-package org.example;
-
 import db.MySQLConnector;
 import object.Curator;
 import object.Group;
